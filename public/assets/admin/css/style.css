@@ -1,0 +1,35 @@
+/*body{line-height: 2;}*/
+.form-control ,.select2-container .select2-selection--multiple,.btn{height: calc(1.5em + .9rem + 10px);}
+.left-side-menu {position: absolute;background: #343b4a}
+.select2-container .select2-selection--multiple{line-height: 2;}
+.select2-container--default .select2-selection--multiple .select2-selection__choice{background-color: #aaa !important;}
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove{color:#fff !important;margin-right: 4px !important;}
+#sidebar-menu > ul > li > a{color: #fff}
+/*#sidebar-menu > ul > li > a:hover{color: #eeeeee}*/
+.metismenu li a[aria-expanded="true"] ,.metismenu li a:focus, .metismenu li a:hover{
+    color: #7ec6fc !important;
+}
+.nav-second-level{
+    position: fixed;
+    /*background: #d0eefd;*/
+    /*border-right: 2px solid #4eb7eb;*/
+    background: #fff;
+    right: 240px;  top: 70px;  height: 100%;  width: 240px;  box-shadow: 0 3px 8px 0 rgba(154,161,171,.2);  transition-duration: .2s;  bottom: 0;
+    padding-top: 20px !important;  padding-right: 0 !important;  z-index: 1000;display: none;
+}
+.nav-second-level li{background: #fff}
+.enlarged .left-side-menu ul  li.title{display: none}
+.enlarged .left-side-menu #sidebar-menu > ul > li > a {min-height: 70px}
+#sidebar-menu .nav-second-level li a:hover,#sidebar-menu .nav-second-level li a:focus,#sidebar-menu .nav-second-level li a[aria-expanded="true"]{color: #188ae2 !important;}
+#sidebar-menu hr.border-light{border-color: #ddd !important;background: #fff}
+.mm-show{display: block}
+.nav-second-level .title{color: #188ae2 !important;font-size: 1rem; border-bottom: 1px solid #188ae2 }
+.nav-second-level li a, .nav-thrid-level li a {padding: 15px 20px;}
+.nav-second-level  li > a i {  margin: 0 3px 0 10px;  }
+#sidebar-menu li.mm-active > a > span.menu-arrow {  -webkit-transform: rotate(0deg);  transform: rotate(0deg);}
+.metismenu li {  height: 50px;  }
+.page-title-box .page-title-right {  float: right;  }
+.breadcrumb-item + .breadcrumb-item::before {  padding-right: .5rem;  content: "\F142";}
+@media (max-width: 480px) {  .navbar-custom .logo .logo-sm{display: none}  }
+@media (max-width: 414px) {  .left-side-menu {  width: 210px;}  .nav-second-level {right: 210px}  }
+
