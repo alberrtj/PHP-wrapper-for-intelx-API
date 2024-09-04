@@ -50,7 +50,7 @@ After running the server at your system you can easily search and download.
 ## Getting Started
 Login information: 
 
-	Username:admin@domain.com and password: 123456
+	Username: admin@domain.com & password: 123456
 	
 Attention:
 to protect your key, Restrict Panel Access from others
