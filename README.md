@@ -52,5 +52,5 @@ Login information:
 
 	Username: admin@domain.com & password: 123456
 	
-Attention:
-to protect your key, Restrict Panel Access from others
+## Attention:
+To Protect your API_KEY, Restrict Panel Access From Others
