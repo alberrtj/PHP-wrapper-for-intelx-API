@@ -14,7 +14,7 @@ The following are required to function properly.
 
 
 
-## Getting Started
+## Installation
  
 step1:
 As an initial setup of project, make sure that you have executed the following commands:
@@ -48,7 +48,7 @@ executed the following commands:
 
 After running the server at your system you can easily search and download.
 
-step5: 
+## Getting Started
 Login information: 
 
 	Username:admin@domain.com and password: 123456
