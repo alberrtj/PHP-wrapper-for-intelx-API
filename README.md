@@ -40,7 +40,7 @@ step4:
 
     Open the INTELX.php file in the config folder and enter the **API_KEY** you received from the intelx.io site.
 
-step4:
+step5:
 executed the following commands:
 
     $   php artisan serve
