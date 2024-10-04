@@ -2,7 +2,7 @@
 
 intelligence X PHP interface is wrapper for intelx.io API, made to perform any kind of open-source intelligence. you can easily download Full Data and Set buckets, Date limitation or Public Sources.
 
-![](https://pouch.jumpshare.com/preview/gg80ttHOCNtBszUzk0vyaNIoCXE0zPjjPZn7ouEEfYtDXcoLnTox5XnujIcPvvdhztdwUBwoYLRFgm8ldsB4w6zXKxCyHF4B17NCBBe1eVc)
+![](https://file.io/N76d8f36US2R)
 
 ## System Requirements
 
